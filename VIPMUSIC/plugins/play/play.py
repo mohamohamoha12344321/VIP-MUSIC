@@ -48,10 +48,10 @@ SPAM_THRESHOLD = 2
 @app.on_message(
     filters.command(
         [
-            "play",
-            "vplay",
-            "cplay",
-            "cvplay",
+            "play","پخش"
+            "vplay","ویدیو"
+            "cplay","پخش کانال"
+            "cvplay","وکانال"
             "playforce",
             "vplayforce",
             "cplayforce",
