@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("THE_VIP_BOY_OP")
-                await self.one.join_chat("THE_VIP_BOY")
-                await self.one.join_chat("TG_FRIENDSS")
-                await self.one.join_chat("VIP_CREATORS")
+                await self.one.join_chat("THE_VIP_BOY_OP1")
+                await self.one.join_chat("THEVIP_BOY")
+                await self.one.join_chat("TG_FRIENDSS1")
+                await self.one.join_chat("VIP_CREATORS1")
             except:
                 pass
             assistants.append(1)
@@ -94,9 +94,9 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("TheVIP")
-                await self.two.join_chat("VIPSupport")
-                await self.two.join_chat("THE-VIP-BOY-OP")
-                await self.two.join_chat("TheTeamVk")
+                await self.two.join_chat("VIPSUPPORTS1")
+                await self.two.join_chat("THE-VIP-BOY-OP1")
+                await self.two.join_chat("TheTeamVk2")
             except:
                 pass
             assistants.append(2)
@@ -122,9 +122,9 @@ class Userbot(Client):
             await self.three.start()
             try:
                 await self.three.join_chat("TheVIP")
-                await self.three.join_chat("VIPSupport")
-                await self.three.join_chat("THE-VIP-BOY-OP")
-                await self.three.join_chat("TheTeamVk")
+                await self.three.join_chat("VIPSUPPORTS1")
+                await self.three.join_chat("THE-VIP-BOY-OP1")
+                await self.three.join_chat("TheTeamVk2")
             except:
                 pass
             assistants.append(3)
@@ -150,9 +150,9 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("TheVIP")
-                await self.four.join_chat("VIPSupport")
-                await self.four.join_chat("THE-VIP-BOY-OP")
-                await self.four.join_chat("TheTeamVk")
+                await self.four.join_chat("VIPSUPPORTS1")
+                await self.four.join_chat("THE-VIP-BOY-OP1")
+                await self.four.join_chat("TheTeamVk2")
             except:
                 pass
             assistants.append(4)
@@ -178,9 +178,9 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("TheVIP")
-                await self.five.join_chat("VIPSupport")
-                await self.five.join_chat("THE-VIP-BOY-OP")
-                await self.five.join_chat("TheTeamVk")
+                await self.five.join_chat("VIPSUPPORTS1")
+                await self.five.join_chat("THE-VIP-BOY-OP1")
+                await self.five.join_chat("TheTeamVk2")
             except:
                 pass
             assistants.append(5)
